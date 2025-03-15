@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Doumbia02/API_210041166/issues"
   },
-  "homepage": "https://github.com/Doumbia02/API_210041166#readme"
+  "homepage": "https://github.com/Doumbia02/API_210041166#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
